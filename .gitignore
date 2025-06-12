@@ -1,0 +1,16 @@
+# Xcode
+.DS_Store
+
+# Playgrounds
+*.playground/xcuserdata/
+*.playground/timeline.xctimeline
+*.playground/playground.xcworkspace/
+*.playground/build/
+
+# Swift Package Manager (if you later convert to package)
+.build/
+.swiftpm/
+*.xcodeproj
+# Project-level Xcode files
+DerivedData/
+*.xcworkspace/
