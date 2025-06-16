@@ -1,7 +1,4 @@
 import Cocoa
-import Foundation
-
-// Fahrenheit to Celsius Converter
 
 // Write a Swift function that:
 // - takes a single Double parameter representing a temperature in Fahrenheit.
@@ -15,7 +12,7 @@ func tempConverter(tempFahrenheit: Double) -> Double {
     return tempCelsius
 }
 
-// testing
+// test
 
 let fahrenheitTest: Double = 68.0
 let convertedCelsius = tempConverter(tempFahrenheit: fahrenheitTest)
