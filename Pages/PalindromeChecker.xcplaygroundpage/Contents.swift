@@ -21,9 +21,8 @@ func palindromeChecker(palindrome: String) -> Bool {
     }
 }
 
-// --- TEST YOUR FUNCTION HERE (OUTSIDE the function definition) ---
-
 print("--- Palindrome Checker Tests ---")
+
 print("'madam' is palindrome: \(palindromeChecker(palindrome: "madam"))") // Expected: true
 print("'racecar' is palindrome: \(palindromeChecker(palindrome: "racecar"))") // Expected: true
 print("'apple' is palindrome: \(palindromeChecker(palindrome: "apple"))") // Expected: false

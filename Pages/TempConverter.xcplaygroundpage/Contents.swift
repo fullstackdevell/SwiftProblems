@@ -1,6 +1,7 @@
 import Cocoa
 
 // Write a Swift function that:
+
 // - takes a single Double parameter representing a temperature in Fahrenheit.
 // - calculates the equivalent temperature in Celsius.
 // - returns the Celsius temperature as a Double.
